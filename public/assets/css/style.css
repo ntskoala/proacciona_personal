@@ -1,0 +1,20 @@
+* {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font: 400 1rem 'Open Sans', sans-serif;
+    background-color: #e0f2f1;
+}
+
+.wrapper {
+    width: 100%;
+}
